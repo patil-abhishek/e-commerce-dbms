@@ -1,4 +1,5 @@
-#execution
+## streamlit installation
+``pip install streamlit``
 
-- pip install streamlit
-- streamlit run app.py
+## execution
+``streamlit run app.py``
